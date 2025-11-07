@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SliderScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Games/Game A/Scene/Game A.unity
+    guid: ca2278298d1400f408ff668081622b86
+  - enabled: 1
+    path: Assets/Games/Game B/Scene/Game B.unity
+    guid: 81d5e67f9b8aa47499fb4f2d39e7ec27
+  - enabled: 1
+    path: Assets/Games/Game C/Scene/Game C.unity
+    guid: 9b8a6a8badebd854e85e65ce855e7c5a
+  - enabled: 1
+    path: Assets/Games/Game D/Scene/Game D.unity
+    guid: 6b13610a03e45224a911f1067b85d356
+  - enabled: 1
+    path: Assets/Games/Game E/Scene/Game E.unity
+    guid: 302441f394caebe4286661af2e091cef
+  - enabled: 1
+    path: Assets/Games/Game F/Scene/Game F.unity
+    guid: 78dea76c711fcb34b9947050357a2f80
+  - enabled: 1
+    path: Assets/Games/Game G/Scene/Game G.unity
+    guid: 137a2d38133d6f6419337d81225a9af4
+  - enabled: 1
+    path: Assets/Games/Game H/Scene/Game H.unity
+    guid: bb14b43fcd32a604690d2ab3e77badb1
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

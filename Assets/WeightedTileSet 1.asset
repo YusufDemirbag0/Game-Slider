@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f6336a30cf85b548adcef75e1b4e81b, type: 3}
+  m_Name: WeightedTileSet 1
+  m_EditorClassIdentifier: 
+  entries:
+  - tile: {fileID: 11400000, guid: ce52e7c8be6317f4d997cd84dc9fd3ca, type: 2}
+    weight: 10
+  - tile: {fileID: 11400000, guid: 642633bafec5ee845a664d9321456088, type: 2}
+    weight: 30
+  - tile: {fileID: 11400000, guid: 05686be0d7cba7e48979a84b9c65cbf1, type: 2}
+    weight: 30
+  - tile: {fileID: 11400000, guid: 1c297db3e20abba40bc88f4d7c4fb43e, type: 2}
+    weight: 1
+  - tile: {fileID: 11400000, guid: 7e1c355c4481dbf4698161209e96096e, type: 2}
+    weight: 1
+  - tile: {fileID: 11400000, guid: 6b5c309986812634e8f0f355d4a63002, type: 2}
+    weight: 1
+  seed: 12345
